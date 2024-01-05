@@ -1,2 +1,6 @@
 #!/usr/bin/python3
-type
+# Example
+my_variable = 42
+type_of_variable = type(my_variable)
+print(type_of_variable,end='\n')
+
